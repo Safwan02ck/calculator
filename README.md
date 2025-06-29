@@ -34,4 +34,4 @@ git clone https://github.com/Safwan02ck/calculator.git
 2. Open index.html in your browser to use the calculator.
 
 ##Author
-Safwan – GitHub Profile
+- **Safwan** – [GitHub Profile](https://github.com/Safwan02ck)
