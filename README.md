@@ -29,5 +29,9 @@ https://joyful-cascaron-367adc.netlify.app/
 1. Clone the repository:
 ```bash
 git clone https://github.com/Safwan02ck/calculator.git
+```
 
 2. Open index.html in your browser to use the calculator.
+
+##Author
+Safwan – GitHub Profile
